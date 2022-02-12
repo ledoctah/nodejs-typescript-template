@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ledoctah/nodejs-typescript-template">
-    <img src="https://shields.io/github/r-package/v/ledoctah/nodejs-typescript-template" alt="Version Badge" />
+    <img src="https://img.shields.io/github/package-json/v/ledoctah/nodejs-typescript-template" alt="Version Badge" />
   </a>
 
   <a href="https://github.com/ledoctah/nodejs-typescript-template/blob/main/LICENSE.md">
