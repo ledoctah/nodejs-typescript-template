@@ -73,6 +73,6 @@ There are many ways you can contribute to this template repository:
 
 ### 📄 License
 
-This project is under [MIT License](https://github.com/ledoctah/nodejs-typescript-template/blob/main/LICENSE.md).
+This project is under [MIT License](https://github.com/ledoctah/nodejs-typescript-template/blob/master/LICENSE.md).
 
 > Made with ❤️ by [Matheus Ferreira](https://github.com/ledoctah)
